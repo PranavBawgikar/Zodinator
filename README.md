@@ -2,12 +2,13 @@
 <img align="center" src="https://github.com/PranavBawgikar/Zodinator/assets/102728016/f33f65e8-9003-4898-bbc8-62e9b5231ee4" height="110"></p>
 <h1 align="center">Zodinator</h1>
 
-<a href="">Zod</a> is indeed a powerful library for schema validation in TypeScript.
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br><br>
+<a href="https://github.com/colinhacks/zod">Zod</a> is indeed a powerful library for schema validation in TypeScript.
 
 This repo is a User Registration Form implemented using React, TypeScript, and the Zod library for schema validation. It allows users to fill out a registration form with various fields, such as name, email, password, and confirmPassword, and validates the input data based on the defined schema.
 
 ## Step-by-Step Guide
-Visit the Zod documentation to learn more about the available validation methods and how to define schemas using Zod.<br />
+Visit the <a href="https://zod.dev/">Zod documentation</a> to learn more about the available validation methods and how to define schemas using Zod.<br />
 Follow these steps to set up and develop the User Registration Form with Validation project:
 
 1. Set up a new React project:
